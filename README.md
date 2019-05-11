@@ -1,16 +1,20 @@
 # DogForever
 
+## main execution code = main_python3.ipynb
+
 ## installation
 * python interpreter 에서
 >> import nltk
 >> nltk.download()
 
 * pip install moviepy ----ignore-installed 
+* pip install gensim
 
 ## 순서
 1. translate.ipynb
 2. part_of_speech.py
-3. word to vec
+3. Word2Vec.ipynb
 4. produceVideo.ipynb
 
-1 + 2 => merged.ipynb
+1 + 2 => merged.ipynb (cannot view file)
+
