@@ -23,4 +23,4 @@ execute main.ipynb
 
 By using dog face detection and k-means, we made simple dog character creator
 
-<img class="fit image" src="./DogModel/images/DogForever.jpg"/>
+<img class="fit image" src="DogModel/images/DogForever.jpg"/>
